@@ -1,5 +1,8 @@
-Flask
+Pillow
 flask-socketio
 Werkzeug
 Pillow
 requests
+werkzeug
+markupsafe
+customtkinter
